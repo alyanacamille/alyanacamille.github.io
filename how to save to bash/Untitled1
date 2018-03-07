@@ -1,3 +1,3 @@
-d. git add ., and press enter. (This will add all files in your workspace)
+d. git add . , and press enter. (This will add all files in your workspace)
 e. git commit -m "first commit", and press enter. (This will commit the files you have added and allow you to attach a message)
 f. git push -u origin master, and press enter. (This will push the added files to the remote repository)
